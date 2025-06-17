@@ -8,7 +8,10 @@ exports.addSchool = async (req, res) => {
     }
 
     const school = await School.create({ name, address, latitude, longitude });
-    res.status(201).json(school);
+    res.status(201).json({
+      message: 'School added successfully',
+      id: school.id
+    });
   } catch (err) {
     res.status(500).json({ error: 'Server error' });
   }
