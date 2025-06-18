@@ -67,14 +67,6 @@ https://schoolapi-production-5e32.up.railway.app/api
 ]
 ```
 
----
-
-## 📬 Postman Collection
-
-🔗 [Click to Open Collection](https://api.postman.com/collections/44445256-f2de7a54-4e1c-4f3f-833c-4dee25736f04?access_key=PMAT-01JXZNE363FH6BR927QA7BYD7E)
-
----
-
 
 ## 👨‍💻 Developed By
 
